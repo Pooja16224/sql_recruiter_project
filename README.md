@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-**Project Title**: Recruiter Analytics System
-**Level**: Intermediate
+**Project Title**: Recruiter Analytics System  
+**Level**: Intermediate  
 **Database**: `recruiter_db`
 
 This project focuses on analyzing recruitment data using SQL. It helps in understanding hiring trends, candidate distribution, job demand, and company performance.
