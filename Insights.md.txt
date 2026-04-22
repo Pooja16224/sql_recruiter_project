@@ -1,0 +1,26 @@
+1.Top Hiring Companies
+The companies with the highest number of applications are:
+TCS
+Infosys
+This indicates these companies are either posting more jobs or attracting more candidates due to brand value and opportunities.
+
+2.Most Demanded Skills
+The most common skill among candidates is:
+SQL, JAVA
+This shows that SQL is a core skill for job seekers, especially in data-related roles.
+
+3.Candidate Experience Distribution
+Majority of candidates fall into the:
+Mid-level category (2–5 years of experience)
+This suggests that the job market is more active for candidates with some experience rather than freshers.
+
+4.Hiring Success Rate
+The overall hiring success rate is approximately:
+~33% 
+This means only a fraction of applicants get selected, indicating a competitive hiring process.
+
+5.Cities with Highest Candidates
+The cities with the highest number of candidates are:
+Pune
+
+This city appear to be major talent hub for recruitment.
