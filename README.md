@@ -33,6 +33,11 @@ The project demonstrates how SQL can be used to extract meaningful insights from
 
 ---
 
+## Entity Relationship Diagram
+![ER Diagram](er_diagram.png)
+
+---
+
 ## Data Analysis & Business Questions
 
 Below are some key questions explored to understand the recruitment data:
