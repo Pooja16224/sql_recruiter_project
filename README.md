@@ -34,7 +34,7 @@ The project demonstrates how SQL can be used to extract meaningful insights from
 ---
 
 ## Entity Relationship Diagram
-![ER Diagram](er_diagram.png)
+![ER Diagram](https://github.com/Pooja16224/sql_recruiter_project/blob/main/ER%20Diagram.png?raw=true)
 
 ---
 
